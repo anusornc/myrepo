@@ -1,6 +1,6 @@
-language: c
+language:c
 compiler:
-  - gcc
-  - clang
-# Change this to your needs
+  -gcc
+  -clang
+#Change this to your needs
 script: ./configure && make
